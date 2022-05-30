@@ -2,6 +2,14 @@
 
 This repository provides a way to monitor VoWiFi packets exchanged between UE and ePDG. Also, we provide some scripts to extract keys from UE and decrypt messages with them.
 
+This testbed is used to verify our findings at the last step of the VWAnalyzer framework.
+
+The detail of the design of VWAnalyzer is described at our ASIA CCS '22 paper
+
+**Hyunwoo Lee, Imtiaz Karim, Ninghui Li, and Elisa Bertino, "VWAnalyzer: A Systematic Security Analysis Framework for the Voice over WiFi Protocol." Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security. 2022.,**
+
+which can be found at: https://dl.acm.org/doi/abs/10.1145/3488932.3517425
+
 ## WiFi AP Setting
 **0. Environment**
   - OS: Ubuntu 20.04
