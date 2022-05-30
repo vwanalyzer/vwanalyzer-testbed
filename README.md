@@ -1,5 +1,7 @@
 # VWAnalyzer Testbed
 
+This repository provides a way to monitor VoWiFi packets exchanged between UE and ePDG. Also, we provide some scripts to extract keys from UE and decrypt messages with them.
+
 ## WiFi AP Setting
 **0. Environment**
   - OS: Ubuntu 20.04
