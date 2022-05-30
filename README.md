@@ -58,3 +58,4 @@
   - Dropdown [Protocols] and find [ISAKMP]
   - Click [Edit...] next to IKEv2 Decryption Table
   - Insert Initiator's SPI and Responder's SPI (You can find them from the captured packets) and extracted keys. (Select AES-CBC-256 for the encryption algorithm and ANY 96-bits of Authentication [No Checking] for the integrity algorithm)
+  - You can also decrypt ESP packets similarly
