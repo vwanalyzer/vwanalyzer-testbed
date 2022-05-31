@@ -10,6 +10,8 @@ The detail of the design of VWAnalyzer is described at our ASIA CCS '22 paper
 
 which can be found at: https://dl.acm.org/doi/abs/10.1145/3488932.3517425
 
+Please send an email to Hyunwoo Lee (lee3816@purdue.edu) if you have any question or comments.
+
 ## WiFi AP Setting
 **0. Environment**
   - OS: Ubuntu 20.04
